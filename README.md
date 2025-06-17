@@ -1,5 +1,7 @@
 # Street Diorama (High Poly)
 
+![Project Preview](https://github.com/RgAnna/street_diorama_scene/blob/main/street_diorama_trashcan_scene.png)
+
 ## Description
 
 This 3D scene represents a highly detailed street diorama created in high polygon count (High Poly). The model is crafted with meticulous attention to detail, making it an ideal asset for projects requiring realistic and rich environments.
@@ -25,7 +27,9 @@ The model is ready for import into any 3D editor or game engine supporting Blend
 
 If you have any questions or need assistance with scene setup, feel free to reach out!
 
----
+__Contact:__ [https://www.artstation.com/rganna](https://www.artstation.com/rganna)
+
+------------------------------------------------------------------------------------------
 
 # Уличная Диарама (High Poly)
 
