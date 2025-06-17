@@ -19,13 +19,6 @@ This 3D scene represents a highly detailed street diorama created in high polygo
 - Materials and textures fully customized inside Blender for easy adaptation and flexibility.  
 - Suitable for use in visualizations, animations, architectural projects, and game scenes focused on realism.
 
-## Usage
-
-The model is ready for import into any 3D editor or game engine supporting Blender (.blend) or export formats such as FBX/OBJ.
-
-## Additional Information
-
-If you have any questions or need assistance with scene setup, feel free to reach out!
 
 __Contact:__ [https://www.artstation.com/rganna](https://www.artstation.com/rganna)
 
@@ -50,11 +43,5 @@ __Contact:__ [https://www.artstation.com/rganna](https://www.artstation.com/rgan
 - Материалы и текстуры полностью настроены внутри Blender для удобной адаптации и гибкости.  
 - Подходит для использования в визуализациях, анимациях, архитектурных проектах и игровых сценах с упором на реализм.
 
-## Использование
-
-Модель готова к импорту в любые 3D-редакторы и игровые движки, поддерживающие формат Blender (.blend) или экспорт в FBX/OBJ.
-
-## Дополнительная информация
-
-Если у вас возникнут вопросы или потребуется помощь с настройкой сцены — обращайтесь!
+__Контакты:__ [https://www.artstation.com/rganna](https://www.artstation.com/rganna)
 
