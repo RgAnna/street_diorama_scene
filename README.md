@@ -29,7 +29,7 @@ This 3D scene represents a highly detailed street diorama created in high polygo
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
-------------------------------------------------------------------------------------------
+___
 
 # Уличная Диарама (High Poly)
 
